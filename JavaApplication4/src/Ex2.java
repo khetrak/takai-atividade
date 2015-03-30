@@ -8,7 +8,7 @@
     import javax.swing.JButton;
     //caixa de seleção
     import javax.swing.JComboBox;
-    //inserção de texto e/ou imagem
+    //inserção de texto e/ou imagem   juuuhui
     import javax.swing.JLabel;
     //classe Icon junto com ImageIcon anexão uma imagem a um Jlabel
     import javax.swing.Icon;
